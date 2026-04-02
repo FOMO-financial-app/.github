@@ -48,11 +48,39 @@ Unlike traditional analysis tools, this platform introduces a **social layer** t
 
 ## 📸 Visual Overview
 
-### 📊 Chart Visualization
+### 🔍 Search & Discovery
 
-### 📉 Technical Indicators
+Quickly search and explore stocks across NASDAQ and NYSE markets.
 
-### 🔔 Alert System
+![Homepage interface](./assets/homepage.png)
+
+### 📊 Interactive Charting
+
+Analyze stock price movements with an interactive candlestick chart.
+
+![Main chart](./assets/main-chart.png)
+
+### 📈 Technical Indicators
+
+Apply multiple indicators such as SMA and Bollinger Bands on the same chart.
+
+![Indicators](./assets/chart-indicators.png)
+
+You can also use specific indicators, such as RSI or Stochastic Oscillator.
+
+![Other indicators](./assets/other-indicators.png)
+
+### 🤝 Social Trading Insights
+
+View and share trading results with other users in a collaborative environment.
+
+![Social board](./assets/social-board.png)
+
+### 🔔 Smart Alerts
+
+Get notified when specific conditions are met or when other users achieve positive results.
+
+![Email Alert](./assets/email-alert.png)
 
 ---
 
