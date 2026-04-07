@@ -19,13 +19,14 @@ The goal is to deliver a solution that is both **intuitive for beginners** and *
 
 ---
 
-## 🧩 Key Differentiator
+## 🧩 Key Features
 
-Unlike traditional analysis tools, this platform introduces a **social layer** that allows users to:
+This platform focuses on making stock analysis more accessible and collaborative:
 
-* Share strategies and results
-* Learn from other users' successful trades
-* Identify patterns through community activity
+* Apply technical indicators easily without writing custom scripts
+* Share trading strategies and results with other users
+* Learn from successful trades shared by the community
+* Receive alerts when other users achieve positive results
 
 ---
 
@@ -34,8 +35,8 @@ Unlike traditional analysis tools, this platform introduces a **social layer** t
 | Layer    | Technology                                             |
 | -------- | ------------------------------------------------------ |
 | Frontend | React 19 (Vite)                                        |
-| Backend  | .NET 8 (Web API)                                       |
-| Database | SQL Server *(easily replaceable via Entity Framework)* |
+| Backend  | .NET 9 (Web API)                                       |
+| Database | PostgreSQL *(easily replaceable via Entity Framework)* |
 
 ---
 
